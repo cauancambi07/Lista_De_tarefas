@@ -1,0 +1,22 @@
+{
+    "name": "Lista de Tarefas Pessoal",
+    "short_name": "Tarefas",
+    "start_url": ".",
+    "dsiplay": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3367D6",
+    "description": "Aplicativo de lista de tarefas",
+    "icons": [
+ 
+        {
+            "src": "imagens/icon-48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "imagens/icon-96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ] 
+}
